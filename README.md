@@ -6,6 +6,7 @@ Welcome to **YouBet Web3 All-In**! 🎉 This tutorial is your ultimate guide to 
 
 ### Courses
 - [Cryptography](https://www.coursera.org/learn/cryptography)
+- [Crypto](https://www.coursera.org/learn/crypto)
 
 ### Books
 - A Graduate Course in Applied Cryptography
